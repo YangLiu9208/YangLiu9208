@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 I’m currently focusing on computer vision and machine learning.
 
 <!--
 **YangLiu9208/YangLiu9208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
