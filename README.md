@@ -2,7 +2,7 @@
 Welcome to my homepage https://yangliu9208.github.io/home/
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/jindongwang/count.svg" />
+  <img src="https://profile-counter.glitch.me/yangliu9208/count.svg" />
 </p>
 
 <!--
