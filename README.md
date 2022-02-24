@@ -1,6 +1,10 @@
 ### 🔭 I’m currently focusing on computer vision and machine learning.
 Welcome to my homepage https://yangliu9208.github.io/home/
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jindongwang/count.svg" />
+</p>
+
 <!--
 **YangLiu9208/YangLiu9208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
