@@ -1,3 +1,4 @@
+<h1 align="center">Hi 😄, I'm Yang Liu</h1>
 ### 🔭 I’m currently focusing on computer vision and machine learning.
 Welcome to my homepage https://yangliu9208.github.io/home/
 
